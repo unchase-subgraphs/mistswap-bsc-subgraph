@@ -1,6 +1,6 @@
 specVersion: 0.0.4
 description: MistSwap is a decentralized exchange (or DEX, for short), and the first product by MistSwap.
-repository: https://github.com/unchase-subgraphs/mistswap-bsc-sybgraph
+repository: https://github.com/unchase-subgraphs/mistswap-bsc-subgraph
 schema:
   file: ./schema.graphql
 dataSources:
